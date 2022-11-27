@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name = "harajofil.py",
+    name = "dimatlimbat.py",
     version = "0.1",
-    py_modules = ['harajofil'],
-    url = "https://github.com/harajofil/harajofil.git",
-    author = "harajofil",
+    py_modules = ['dimatlimbat'],
+    url = "https://github.com/dimatlimbat/dimatlimbat.git",
+    author = "dimatlimbat",
     install_requires = ["pyngrok"]
 )
